@@ -1,0 +1,26 @@
+<order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="users.xsd">
+<orderperson>
+<name>Palash</name>
+<email>palashhalder1988@gmail.com</email>
+<phone>403703415</phone>
+</orderperson>
+<item>
+<title>Phone</title>
+<frame>frame2</frame>
+<framecolor>green</framecolor>
+<screen>screen1</screen>
+<screencolor>blue</screencolor>
+<keyboard>keyboard3</keyboard>
+<keyboardcolor>red</keyboardcolor>
+<note>required</note>
+<quantity>16</quantity>
+<price>21</price>
+</item>
+<shipto>
+<shippingname>joy</shippingname>
+<shippingemail>palashhalder1988@gmail.com</shippingemail>
+<shippingphone>403703415</shippingphone>
+<shippingaddress>Mikontalo D356</shippingaddress>
+<shippingcountry>Finland</shippingcountry>
+</shipto>
+</order>
